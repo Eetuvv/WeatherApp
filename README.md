@@ -3,7 +3,7 @@ Simple weather app for Android, made using Kotlin in Android Studio. Uses [Weath
 
 # Note: to use this app, you need to get your own WeatherAPI key. 
 
-![pic123](https://user-images.githubusercontent.com/34383558/100518776-612e1000-319c-11eb-89d2-53277110aefa.jpg)
-![pic12345](https://user-images.githubusercontent.com/34383558/100518782-64c19700-319c-11eb-8e7c-55afe843260e.jpg)
-![pic1234](https://user-images.githubusercontent.com/34383558/100518778-62f7d380-319c-11eb-87c8-6adf3c3e8a84.jpg)
+![pic123_2](https://user-images.githubusercontent.com/34383558/100518829-c4b83d80-319c-11eb-9223-b154ac0b776d.jpg)
+![pic12345_2](https://user-images.githubusercontent.com/34383558/100518833-c5e96a80-319c-11eb-97f5-b9d0cb3abb8d.jpg)
+![pic1234_2](https://user-images.githubusercontent.com/34383558/100518831-c550d400-319c-11eb-9c23-932d80bf9790.jpg)
 
